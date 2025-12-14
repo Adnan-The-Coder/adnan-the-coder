@@ -51,85 +51,278 @@
 
 ## 🚀 Tech Stack
 
+<!-- Languages Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=💻%20Programming%20Languages&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
+
 <div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><b>Python</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><b>Java</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+<br><b>Rust</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><b>C</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+</tr>
+</table>
+</div>
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-</p>
+<!-- Frontend Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=🎨%20Frontend%20Development&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
 
-### 🎨 Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-</p>
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><b>React</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+<br><b>Vue.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br><b>Tailwind</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Native" width="65" height="65" />
+<br><b>React Native</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" />
+<br><b>Qt</b>
+</td>
+</tr>
+</table>
+</div>
 
-### ⚙️ Backend & Runtime
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify"/>
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/>
-  <img src="https://img.shields.io/badge/Elysia-7C3AED?style=for-the-badge&logo=bun&logoColor=white" alt="Elysia"/>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
+<!-- Backend Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=Backend%20and%20Runtime&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon"/>
-  <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare D1"/>
-  <img src="https://img.shields.io/badge/AWS_Aurora-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="AWS Aurora"/>
-</p>
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br><b>Express</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br><b>FastAPI</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br><b>Django</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+<br><b>Bun</b>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.png" width="48" height="48" alt="Hono" />
+<br><b>Hono</b>
+</td>
+<td align="center" width="96">
+<img src="https://elysiajs.com/assets/elysia.svg" width="48" height="48" alt="Elysia" />
+<br><b>Elysia</b>
+</td>
+<td align="center" width="96">
+<img src="https://fastify.dev/img/logos/fastify-white.svg" width="48" height="48" alt="Fastify" />
+<br><b>Fastify</b>
+</td>
+</tr>
+</table>
+</div>
 
-### ☁️ Cloud & Hosting
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-</p>
+<!-- Databases Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=Databases&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
-</p>
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br><b>Redis</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br><b>Supabase</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Neon" />
+<br><b>Neon</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="D1" />
+<br><b>D1</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aurora" />
+<br><b>Aurora</b>
+</td>
+</tr>
+</table>
+</div>
 
-### 🧰 Development Tools
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
+<!-- Cloud Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=Cloud%20and%20Hosting&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
 
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><b>AWS</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br><b>GCP</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br><b>Azure</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+<br><b>Cloudflare</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br><b>Vercel</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+<br><b>Netlify</b>
+</td>
+<td align="center" width="96">
+<img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" width="48" height="48" alt="Render" />
+<br><b>Render</b>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- DevOps Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=DevOps%20and%20Tools&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+<br><b>Kafka</b>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="65" height="65" />
+<br><b>Actions</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+<br><b>Terraform</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br><b>Git</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="WSL" />
+<br><b>WSL</b>
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Dev Tools Section -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=40&section=header&text=🧰%20Development%20Tools&fontSize=20&fontColor=00FFBF&fontAlignY=55" width="100%"/>
+
+<div align="center">
+<br/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br><b>VS Code</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br><b>Postman</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br><b>Figma</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+<br><b>Notion</b>
+</td>
+</tr>
+</table>
+<br/>
 </div>
 
 ---
