@@ -12,9 +12,9 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=adnan-the-coder&color=00FFBF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <a href="https://github.com/adnan-the-coder?tab=followers">
-      <img src="https://img.shields.io/github/followers/adnan-the-coder?label=Followers&style=for-the-badge&color=00FFBF&labelColor=1A1A1A" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/adnan-the-coder?label=Followers&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Followers" />
     </a>
-    <img src="https://img.shields.io/github/stars/adnan-the-coder?style=for-the-badge&color=00FFBF&labelColor=1A1A1A" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/adnan-the-coder?label=Stars&style=for-the-badge&color=00FFBF&labelColor=000000" alt="GitHub Stars" />
   </p>
 
 </div>
@@ -28,6 +28,7 @@
 - 🔭 Currently exploring **distributed systems** and **cloud-native architectures**
 - 🌱 Always learning something new — this week it's probably something different!
 - 💬 Ask me about **web dev**, **cloud architecture**, **DevOps**, or **system design**
+- 🔐 I also build **cyber security & hack tools** → [github.com/cloud-rooted](https://github.com/cloud-rooted)
 - ⚡ Fun fact: My tech stack changes faster than most people update their resumes
 
 ---
@@ -37,10 +38,6 @@
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adnan-the-coder&show_icons=true&count_private=true&hide_border=true&title_color=00FFBF&icon_color=00FFBF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnan-the-coder&layout=compact&hide_border=true&title_color=00FFBF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=adnan-the-coder&theme=dark&hide_border=true&stroke=00FFBF&ring=00FFBF&fire=00FFBF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFBF&sideLabels=00FFBF&dates=888888&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -141,14 +138,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,rust,c,react,nextjs,vue,tailwind,nodejs,express,fastapi,django,postgres,mongodb,redis,supabase,kafka,docker,kubernetes,aws,gcp,azure,git,github,vscode,figma&perline=10" alt="Tech Stack Icons"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adnan-the-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
