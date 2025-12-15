@@ -215,6 +215,14 @@
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Aurora" />
 <br><b>Aurora</b>
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br><b>Prisma</b>
+</td>
+<td align="center" width="96">
+<img src="https://raw.githubusercontent.com/drizzle-team/drizzle-orm/main/misc/readme/logo-github-sq-dark.svg" width="48" height="48" alt="Drizzle" />
+<br><b>Drizzle</b>
+</td>
 </tr>
 </table>
 </div>
