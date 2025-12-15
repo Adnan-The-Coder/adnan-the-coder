@@ -200,8 +200,12 @@
 <br><b>Supabase</b>
 </td>
 <td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Neon" />
-<br><b>Neon</b>
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br><b>Firebase</b>
+</td>
+<td align="center" width="96">
+<img src="https://neon.tech/brand/neon-logo-dark-color.svg" width="48" height="48" alt="Neon" />
+<br><b>Neon DB</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="D1" />
@@ -319,6 +323,10 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
 <br><b>Notion</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino IDE" />
+<br><b>Arduino IDE</b>
 </td>
 </tr>
 </table>
